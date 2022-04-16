@@ -2,7 +2,7 @@
 A website for CharityLife Foundation. CharityLife Foundation is an organization that takes care of refugees.
 
 # Setup
-To run this code on your local machine, intall Xampp if not installed.
+To run this code on your local machine, install Xampp if not installed.
 
 Clone this repository into your local machine and copy the folder to htdocs under the Xampp folder.
 
